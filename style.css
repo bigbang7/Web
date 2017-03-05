@@ -1,0 +1,40 @@
+#topBar{
+    text-align: right;
+    color: blue;
+    
+}
+
+#cuad{
+    background-color: black;
+    border: solid;
+    width: 10px;height: 10px;
+    margin: 2px;
+    padding: 2px;
+    display: inline-block
+    
+}
+
+a{
+    text-decoration: none;
+    color: gray
+
+}
+
+#logo{
+    display: block;
+    text-align: center;
+    padding-top: 10em;
+    
+}
+
+form{
+    padding-left: 0em;
+    text-align: center;
+    line-height: 3em;
+    
+}
+.box{
+    width: 50%;
+
+}
+
